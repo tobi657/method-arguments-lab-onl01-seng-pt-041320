@@ -1,2 +1,2 @@
-def introduction John
+def introduction (John)
 end
